@@ -1,0 +1,28 @@
+html 
+{
+    color:white;
+    background-image: url('https://www.publicdomainpictures.net/pictures/330000/nahled/single-candle-in-dark-background.jpg');
+    background-size: contain;
+    
+}
+li {
+    font-family: courier;
+    
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+h2 {
+    font-style: italic;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.coordonnées {
+    color:grey;
+}
+#hobbies {
+    font-size: medium;
+    color:blue
+}
+#skills {
+    color:red;
+}
